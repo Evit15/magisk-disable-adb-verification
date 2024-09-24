@@ -1,0 +1,1 @@
+# magisk-disable-adb-verification
